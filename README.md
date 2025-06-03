@@ -7,6 +7,7 @@ The project uses Playwright with TypeScript.
 
 - Login with valid credentials
 - Add item to cart, proceed to checkout, and verify successful order
+- Get temperature from API, assert the temperature of Islamabad along with success response code
 
 ## ✅ Execution Results
 Below are the test execution results.
