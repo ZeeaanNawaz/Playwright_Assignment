@@ -13,13 +13,13 @@ The project uses Playwright with TypeScript.
 Below are the test execution results.
 
 - Test Results Scenario 1: Verify User Login with Valid Credentials Login Test Result
-![image](https://github.com/user-attachments/assets/c6141ed9-5a48-4c4c-8fba-e81de2441162)
+![image](https://github.com/user-attachments/assets/d7c5000c-75c9-4684-998e-ea263de2cb65)
 
 - Scenario 2: User Places an Order and Checks Out Successfully
-![image](https://github.com/user-attachments/assets/45ec1671-b031-460f-bbe9-730a15cb9963)
+![image](https://github.com/user-attachments/assets/f9d32728-ec52-434c-a3d5-aceaf32783fd)
 
 - Scenario 3: Use Openweather API - Test and assert the temperature of Islamabad
-![image](https://github.com/user-attachments/assets/696247ae-56a0-47f9-ac0a-7530148ff320)
+![image](https://github.com/user-attachments/assets/06cf0ee7-ab1c-4be6-b83e-921dc7f417ad)
 
 
 ## 📦 Setup
